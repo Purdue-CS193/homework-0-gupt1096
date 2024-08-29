@@ -1,8 +1,8 @@
 # Hanush's First CS193 Homework
 **Hobbies** 
--Listening to music
--Playing basketball
--Taking a nap
+ -Listening to music
+ -Playing basketball
+ -Taking a nap
 
 ## Welcome to GitHub Pages
 
