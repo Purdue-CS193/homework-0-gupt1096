@@ -1,5 +1,5 @@
 # Hanush's First CS193 Homework
-_Hobbys_ 
+**Hobbies** 
 -Listening to music
 -Playing basketball
 -Taking a nap
