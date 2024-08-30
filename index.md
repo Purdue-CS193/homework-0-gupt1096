@@ -1,7 +1,7 @@
 # Hanush's First CS193 Homework
 **Fav Things about CS193** 
- - Cool presentation
- - Easy Quizes
+ - Cool presentations
+ - Easy Quizzes
 
 ## Welcome to GitHub Pages
 
